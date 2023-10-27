@@ -652,7 +652,7 @@ img {
 }
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
-  width: 6rem;
+  width: 0.6rem;
   border-radius: 0.5rem;
   -webkit-border-radius: 0.5rem;
   -moz-border-radius: 0.5rem;
